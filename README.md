@@ -36,7 +36,7 @@
 | **地址** | **说明** |
 | :--- | :--- |
 | [gofree.ggff.net](https://gofree.ggff.net/) | 主站 |
-| [GitHub Repo](https://github.com/your-username/gofree) | 源码仓库 |
+| [GitHub Repo](https://github.com/tidesea/cloudflare-app-list) | 源码仓库 |
 
 > 如果你的域名也绑定在 Cloudflare 上，可以直接 Fork 本仓库，修改 `index.html` 中的链接后部署。
 
